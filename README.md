@@ -3,6 +3,11 @@ Comfy UI Workflows with Prompt and Generated Images
 
 ## Stable Diffusion 3  Comfy UI Workflows
 [Stable Diffusion 3 Comfy UI Workflows](workflows/sd3/sd3_workflow_api.json)
+
+##ComfyUI Screenshots
+![](workflows/sd3/screenshots/Screenshot 2024-09-05 at 11.44.57 AM.png)
+![](workflows/sd3/screenshots/Screenshot 2024-09-05 at 11.45.35 AM.png)
+
 ## Generated Images
 ### Prompt
 
